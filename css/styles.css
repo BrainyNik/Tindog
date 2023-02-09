@@ -154,6 +154,16 @@ h2{
 }
 @media  screen and (max-width: 1028px){
 
+    h1{
+        font-size: larger;
+    }
+    .button{
+        margin-right : 0;
+    }
+    h3,h2{
+        font-size: larger;
+
+    }
     .iphone-img{
         padding-top: 10%;
         transform: rotate(0deg);
