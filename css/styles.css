@@ -162,7 +162,10 @@ h2{
     }
     h3,h2{
         font-size: larger;
-
+        padding-bottom: 0.2rem;
+    }
+    .dog-img{
+        width:20%;
     }
     .iphone-img{
         padding-top: 10%;
@@ -171,7 +174,10 @@ h2{
         width: 40%;
          right:-30%;
     }
-
+.press-img{
+    width: 22%;
+    margin: 20px 20px 50px;
+}
    
     #title{
         text-align: center;
